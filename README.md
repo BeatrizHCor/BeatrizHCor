@@ -1,11 +1,13 @@
 # Hi, i'm Beatriz Helena
 
-- Now searching for new jobs.
-- Student of systems analysis and development at Federal University of Paraná (UFPR).
+   I'm 25 years old, student of systems analysis and development at Federal University of Paraná (UFPR). In the moment i'm looking for new opportunities and working in my personal projects.  
+<div> 
+  <img height="100em" src="https://c.tenor.com/IVCnKbtTeRQAAAAC/programming-computer.gif" />
+</div>
 
 - I've also studied Chemestry in UFPR. 
 <div>
-  <img height="80em" src="https://c.tenor.com/e7Or2rriPP0AAAAi/bird-colors.gif" />
+  <img height="50em" src="https://c.tenor.com/e7Or2rriPP0AAAAi/bird-colors.gif" />
 </div>
 
 
@@ -17,10 +19,9 @@
 
 - 📫 You can contact me by email (beatrizhcoradi@gmail.com).
 -  Living in Paraná, Brazil.
- - 🌱 Currently learning SQL Server.
-- 👯 Always looking for new oportunities.
+ - 🌱 Currently learning SQL Server and improving all my skills.
  - 🔪 I like to cook in my free time.
- - 
+ - 🐕 Dogs are love. Dogs are life.
 
 
 

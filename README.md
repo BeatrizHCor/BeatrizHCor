@@ -19,7 +19,8 @@
 
 - 📫 You can contact me by email (beatrizhcoradi@gmail.com).
 -  Living in Paraná, Brazil.
- - 🌱 Currently learning SQL Server and improving all my skills.
+ - 🌱 Currently learning and improving all my skills.
+ - Working Front-end with React.js at AtGroup
  - 🔪 I like to cook in my free time.
  - 🐕 Dogs are love. Dogs are life.
 

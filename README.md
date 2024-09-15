@@ -1,6 +1,6 @@
 # Hi, i'm Beatriz Helena
 
-   I'm 25 years old, student of systems analysis and development at Federal University of Paraná (UFPR). In the moment i'm looking for new opportunities and working in my personal projects.  
+   I'm 27 years old, student of systems analysis and development at Federal University of Paraná (UFPR) and Full Stack Developer.  
 <div> 
   <img height="100em" src="https://c.tenor.com/IVCnKbtTeRQAAAAC/programming-computer.gif" />
 </div>

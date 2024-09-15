@@ -5,10 +5,6 @@
   <img height="100em" src="https://c.tenor.com/IVCnKbtTeRQAAAAC/programming-computer.gif" />
 </div>
 
-- I've also studied Chemestry in UFPR. 
-<div>
-  <img height="50em" src="https://c.tenor.com/e7Or2rriPP0AAAAi/bird-colors.gif" />
-</div>
 
 
 
@@ -20,7 +16,7 @@
 - 📫 You can contact me by email (beatrizhcoradi@gmail.com).
 -  Living in Paraná, Brazil.
  - 🌱 Currently learning and improving all my skills.
- - 🖥️ Looking for new opportunities.
+ - 🖥️ Looking to grow as a developer.
  - 🔪 I like to cook in my free time.
  - 🐕 Dogs are love. Dogs are life.
 

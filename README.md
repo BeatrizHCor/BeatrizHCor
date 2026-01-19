@@ -1,6 +1,6 @@
 # Hi, i'm Beatriz Helena
 
-   I'm 27 years old, student of systems analysis and development at Federal University of Paraná (UFPR) and Full Stack Developer.  
+   I'm 29 years old, working as a Full Stack Software Engineer.  
 <div> 
   <img height="100em" src="https://c.tenor.com/IVCnKbtTeRQAAAAC/programming-computer.gif" />
 </div>
